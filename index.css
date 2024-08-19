@@ -1,0 +1,25 @@
+
+#principal img{
+    max-height: 80vh;
+    object-fit: cover;
+}
+#principal{
+    position: relative;
+}
+#footer{
+ background-color:black ;
+}
+#footer a{
+text-decoration: none;
+color:white;
+}
+.card img:hover{
+    transform: translateY(-10px);
+    box-shadow: 3px 10px 7px rgb(0, 0,0,0.5);
+}
+
+
+
+
+
+
